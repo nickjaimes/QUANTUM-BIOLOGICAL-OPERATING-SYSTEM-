@@ -2,12 +2,6 @@
 
 Quantum-Biological Operating System (QB-OS)
 
-https://img.shields.io/badge/Quantum--Biological-Operating%20System-blueviolet
-https://img.shields.io/badge/version-0.1.0-alpha-orange
-https://img.shields.io/badge/license-MIT-green
-https://img.shields.io/badge/python-3.9%2B-blue
-https://img.shields.io/badge/status-research%20project-yellow
-
 A living operating system inspired by human physiology for quantum-classical computing
 
 🎯 Overview
